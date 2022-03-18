@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Mohith</h1>
 <h2 align="center">A Self-Taught Web Developer</h2>
 
-## About Me :
+### About Me :
 
 - 🎓 I’m currently pursuing my BTech in CSE at **NIT Silchar**
 - 👀 I’m interested in **Full Stack Web Development**
@@ -13,7 +13,7 @@
 <a href="https://github.com/Mohith234?tab=followers"><img src="https://img.shields.io/github/followers/Mohith234?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
-## Connect with me :
+### Connect with me :
 
 [![website](./img/globe-light.svg)](https://google.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://google.com#gh-dark-mode-only)
@@ -24,7 +24,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/mohith__007#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/mohith__007#gh-dark-mode-only)
 
-## Languages and Tools :
+### Languages and Tools :
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -42,7 +42,7 @@
 
 ---
 
-## ⚡ Github Stats :
+### ⚡ Github Stats :
 
 <br/>
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Mohith's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mohith234&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
