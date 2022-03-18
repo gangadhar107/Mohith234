@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Mohith</h1>
-<h2 align="center">A Self-Taught Web Developer</h2>
+<h3 align="center">A Self-Taught Web Developer</h3>
 
 ### About Me :
 
