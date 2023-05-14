@@ -1,5 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Mohith</h1>
+<h1 align="center">Sup! I'm Mohith 🧑‍💻</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
+
+---
 
 ### About Me :
 
@@ -9,44 +11,68 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me **mohithgadireddy@gmail.com**
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Mohith234"></a>
-<a href="https://github.com/Mohith234?tab=followers"><img src="https://img.shields.io/github/followers/Mohith234?label=Followers&style=social" alt="GitHub Badge"></a>
+[1]:  https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+[2]:  https://www.linkedin.com/in/atakan-reyhanio%C4%9Flu-631730185/
 
+---
 
-### Connect with me :
+### Languages :
 
-[![website](./img/globe-light.svg)](https://google.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://google.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mohith-gadireddy-0aa285221#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mohith-gadireddy-0aa285221#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/mohith__007#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/mohith__007#gh-dark-mode-only)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Languages and Tools :
+### Frameworks :
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding-right:10px;" />
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<br />
-<br />
+### Databases :
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) -->
+<!-- ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) -->
+
+### Hosting :
+
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<!-- ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) -->
+
+### Other :
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 ---
 
 ### ⚡ Github Stats :
 
-<br/>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Mohith's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mohith234&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<p align="center">
+   <a href="https://github.com/Mohith234">
+        <img alt="Mohith's streak" src="https://streak-stats.demolab.com?user=Mohith234&theme=radical&border_radius=2.5"/>
+   </a>
+</p>
 
-<br/>
+<p align="center">
+<a href="https://github.com/Mohith234">
+        <img alt="Mohith's streak" src="https://readme-stats.warengonzaga.com/api?username=Mohith234&show_icons=true&count_private=true&theme=radical" width="400px"/>
+</a>
+
+<a href="https://github.com/Mohith234">
+        <img alt="Mohith's streak" src="https://readme-stats.warengonzaga.com/api/top-langs?username=Mohith234&layout=compact&theme=radical" width="390px"/>
+</a>
+</p>
 
 ---
+
+### Connect with me :
+
+[![LinkedIn][1]][2]
