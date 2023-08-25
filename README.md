@@ -1,15 +1,13 @@
-<h1 align="center">Sup! I'm Mohith 🧑‍💻</h1>
-<h3 align="center">A Full Stack Web Developer</h3>
-
----
+<img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" alt="header-image" width="100%">
+<h1 align="center">Sup! I'm Mohith - A Full Stack Developer🧑‍💻</h1>
 
 ### About Me :
 
 - 🎓 I’m currently pursuing my BTech in CSE at **NIT Silchar**
 - 👀 I’m interested in **Full Stack Web Development**
 - 🌱 I’m currently learning **Backend Development**
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-- 📫 How to reach me **mohithgadireddy@gmail.com**
+- 👯 I’m passionate about contributing to **OpenSource Projects**
+- 📫 How to reach me - **mohithgadireddy@gmail.com**
 
 [1]:  https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [2]:  https://www.linkedin.com/in/atakan-reyhanio%C4%9Flu-631730185/
