@@ -3,11 +3,11 @@
 
 ### About Me :
 
-- 🎓 I’m currently pursuing my BTech in CSE at **NIT Silchar**
-- 👀 I’m interested in **Full Stack Web Development**
-- 🌱 I’m currently learning **Backend Development**
-- 👯 I’m passionate about contributing to **OpenSource Projects**
-- 📫 How to reach me - **mohithgadireddy@gmail.com**
+* 🎓 I’m currently pursuing my BTech in CSE at **NIT Silchar**
+* 👀 I’m interested in **Full Stack Development**
+* 🌱 I’m currently exploring **DevOps and Cloud-Native**
+* 👯 I’m passionate about contributing to **OpenSource Projects**
+* 📫 How to reach me - **mohithgadireddy@gmail.com**
 
 [1]:  https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [2]:  https://www.linkedin.com/in/atakan-reyhanio%C4%9Flu-631730185/
