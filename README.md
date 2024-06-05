@@ -10,7 +10,7 @@
 * 📫 How to reach me - **mohithgadireddy@gmail.com**
 
 [1]:  https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-[2]:  https://www.linkedin.com/in/atakan-reyhanio%C4%9Flu-631730185/
+[2]:  https://www.linkedin.com/in/mohith-gadireddy?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BW5BrILHHQEKI4NMYdJ2o9Q%3D%3D
 
 ---
 
